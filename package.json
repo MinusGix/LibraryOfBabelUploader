@@ -1,0 +1,14 @@
+{
+  "name": "babeluploader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "MinusGix",
+  "license": "ISC",
+  "dependencies": {
+    "libraryofbabel": "git+https://github.com/MinusGix/LibraryOfBabel.git"
+  }
+}
